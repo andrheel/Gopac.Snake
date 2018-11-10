@@ -54,12 +54,21 @@
     <Reference Include="FSharp.Core">
       <HintPath>..\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.dll</HintPath>
     </Reference>
+    <Reference Include="Hopac">
+      <HintPath>..\packages\Hopac.0.4.1\lib\netstandard2.0\Hopac.dll</HintPath>
+    </Reference>
+    <Reference Include="Hopac.Core">
+      <HintPath>..\packages\Hopac.0.4.1\lib\netstandard2.0\Hopac.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Hopac.Platform">
+      <HintPath>..\packages\Hopac.0.4.1\lib\netstandard2.0\Hopac.Platform.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
     <Reference Include="System.ValueTuple">
-      <HintPath>..\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll</HintPath>
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
       <Private>True</Private>
     </Reference>
   </ItemGroup>
