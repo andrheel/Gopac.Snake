@@ -52,16 +52,16 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
-      <HintPath>..\packages\FSharp.Core.4.5.2\lib\net45\FSharp.Core.dll</HintPath>
+      <HintPath>..\packages\FSharp.Core.8.0.401\lib\netstandard2.0\FSharp.Core.dll</HintPath>
     </Reference>
     <Reference Include="Hopac">
-      <HintPath>..\packages\Hopac.0.4.1\lib\netstandard2.0\Hopac.dll</HintPath>
+      <HintPath>..\packages\Hopac.0.5.1\lib\netstandard2.0\Hopac.dll</HintPath>
     </Reference>
     <Reference Include="Hopac.Core">
-      <HintPath>..\packages\Hopac.0.4.1\lib\netstandard2.0\Hopac.Core.dll</HintPath>
+      <HintPath>..\packages\Hopac.0.5.1\lib\netstandard2.0\Hopac.Core.dll</HintPath>
     </Reference>
     <Reference Include="Hopac.Platform">
-      <HintPath>..\packages\Hopac.0.4.1\lib\netstandard2.0\Hopac.Platform.dll</HintPath>
+      <HintPath>..\packages\Hopac.0.5.1\lib\netstandard2.0\Hopac.Platform.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="System" />

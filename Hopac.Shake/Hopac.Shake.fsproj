@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Point.fs" />
+    <Compile Include="Channels\Command.fs" />
+    <Compile Include="Channels\Render.fs" />
+    <Compile Include="Game.fs" />
+    <Compile Include="Update.fs" />
+    <Compile Include="Keyboard.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hopac" Version="0.5.1" />
+    <PackageReference Update="FSharp.Core" Version="8.0.401" />
+  </ItemGroup>
+
+</Project>

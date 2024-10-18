@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2050
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Gopac.Snake", "Gopac.Snake\Gopac.Snake.fsproj", "{9FBB776E-FB45-4D05-B750-44356224263C}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Hopac.Shake", "Hopac.Shake\Hopac.Shake.fsproj", "{DA7E080D-1F19-4EFA-9B33-60EE444630A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9FBB776E-FB45-4D05-B750-44356224263C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9FBB776E-FB45-4D05-B750-44356224263C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9FBB776E-FB45-4D05-B750-44356224263C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9FBB776E-FB45-4D05-B750-44356224263C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7E080D-1F19-4EFA-9B33-60EE444630A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7E080D-1F19-4EFA-9B33-60EE444630A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7E080D-1F19-4EFA-9B33-60EE444630A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7E080D-1F19-4EFA-9B33-60EE444630A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
